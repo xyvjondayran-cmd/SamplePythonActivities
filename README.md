@@ -25,4 +25,6 @@ The program requires four inputs:
 - Enter x2: 6
 - Enter y1: 7
 - Enter y2: 3
-The distance is 3.61
+- The distance is 3.61
+
+##Guide questions
