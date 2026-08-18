@@ -27,4 +27,5 @@ The program requires four inputs:
 - Enter y2: 3
 - The distance is 3.61
 
-##Guide questions
+## Guide questions
+
