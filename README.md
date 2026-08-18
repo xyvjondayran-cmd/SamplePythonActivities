@@ -21,8 +21,8 @@ The program requires four inputs:
 - `y2` - y-coordinate of the second point
 
 ## Sample Output
-Enter x1: 5
-Enter x2: 6
-Enter y1: 7
-Enter y2: 3
+- Enter x1: 5
+- Enter x2: 6
+- Enter y1: 7
+- Enter y2: 3
 The distance is 3.61
